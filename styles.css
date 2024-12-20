@@ -138,10 +138,11 @@ form input[type="submit"]:hover {
 
 footer {
     text-align: center;
-    padding: 10px;
-    background-color: #800000; /* Бордовый цвет */
+    padding: 10px 0;
+    background-color: #800000;
     color: white;
     position: relative;
     bottom: 0;
     width: 100%;
+    max-width: 100%;
 }
